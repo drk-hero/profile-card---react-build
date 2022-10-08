@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b75a5de1.css",
+    "main.js": "/static/js/main.8bc07759.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/rahmat.png": "/static/media/rahmat.05787d115cde0cbd1803.png",
+    "static/media/2.jpg": "/static/media/2.3ebd564d0d3a06c62dd2.jpg",
+    "static/media/bgcover.avif": "/static/media/bgcover.67fd6cf33c885f917271.avif",
+    "index.html": "/index.html",
+    "main.b75a5de1.css.map": "/static/css/main.b75a5de1.css.map",
+    "main.8bc07759.js.map": "/static/js/main.8bc07759.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b75a5de1.css",
+    "static/js/main.8bc07759.js"
+  ]
+}
